@@ -2,7 +2,7 @@
 
 ### A passionate developer who loves building scalable web applications and exploring new technologies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanprasad-stack&label=Profile views&color=0e75b6&style=flat" alt="karanprasad-stack" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=karanprasad-stack&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I'm currently working on **MERN Stack projects and real-world applications.**
 
