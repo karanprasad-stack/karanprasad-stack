@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! I'm Karan Prasad, a Full Stack Developer from India 🇮🇳 turning ideas into scalable web applications 🚀</h2>
 
 ###
 
