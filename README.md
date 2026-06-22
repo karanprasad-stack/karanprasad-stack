@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **[karanprasad7898@gmail.com]** For Collaboration/Project o
 
 - 🔭 **I’m currently working on:** [Full Stack MERN projects and exploring AI-powered web applications.]
 - 💬 **Ask me about:** [React.js, Node.js, Express.js, MongoDB, JavaScript, TypeScript, and Web Development.]
-- 📫 **How to reach me:** [karanprasad7898@gmmail.com]
+- 📫 **How to reach me:** [karanprasad7898@gmail.com]
 - ⚡ **Fun fact:** I love turning ideas into products, and I believe every bug is just an undocumented feature 😄
 
 ###
