@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **[karanprasad7898@gmail.com]** For Collaboration/Project o
 ###
 
 ## 🌐 Socials:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin-username](https://www.linkedin.com/in/karan-prasad-5a5794214/)]) 
+[![LinkedIn](https://www.linkedin.com/in/karan-prasad-5a5794214/) 
 
 
 ###
