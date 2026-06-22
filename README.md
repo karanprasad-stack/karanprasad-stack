@@ -2,12 +2,12 @@
 
 ###
 
-Email Me 👉 ✉️ **[your-email@example.com]** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **[karanprasad7898@gmail.com]** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** [Your Current Project / Study]
-- 💬 **Ask me about:** [Your Specialties / Technologies]
-- 📫 **How to reach me:** [your-email@example.com]
-- ⚡ **Fun fact:** I Love Tech and Tech Loves Me
+- 🔭 **I’m currently working on:** [Full Stack MERN projects and exploring AI-powered web applications.]
+- 💬 **Ask me about:** [React.js, Node.js, Express.js, MongoDB, JavaScript, TypeScript, and Web Development.]
+- 📫 **How to reach me:** [karanprasad7898@gmmail.com]
+- ⚡ **Fun fact:** I love turning ideas into products, and I believe every bug is just an undocumented feature 😄
 
 ###
 
